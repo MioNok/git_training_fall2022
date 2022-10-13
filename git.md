@@ -10,7 +10,6 @@ Assuming we have git installed on our machine, we want to run the following comm
 
 This way we tell the world who we are when we make changes to a git repository.
 
-TODO: Autentikaatio?
 
 Let's start by clonin a repository:
 
